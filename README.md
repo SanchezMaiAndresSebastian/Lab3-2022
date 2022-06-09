@@ -126,11 +126,17 @@ __5.1__ Tabulación de los datos
 
 __5.2.1__ Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/12.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/13.png)
 
 __5.2.2__ Calculo del error
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/13.png)
+Simulado
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/14.png)
+
+Medido
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/15.png)
 
 En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro) Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente Terminamos midiendo el voltaje de cada resistor.
  
@@ -149,6 +155,6 @@ R. (2001). Fisica II. Mexico: Pearson Educacion.
 
 ### 11.	 ANEXOS
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/14.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/16.png)
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/15.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/17.png)
