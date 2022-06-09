@@ -151,7 +151,7 @@ En el circuito que hemos construido se ve como la unión de diferentes elementos
 
 ### 5. VIDEOS
 
-
+https://youtu.be/dveq3ZmHeGI
 
 ### 6.	CONCLUSIONES
 - Para el cálculo de un nodo se tiene que usar la propiedad de ley de corriente de Kirchhoff el cual es que la suma de corrientes que entran en un nodo es igual a la suma de corrientes que sale del nodo.
