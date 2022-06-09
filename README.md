@@ -28,6 +28,10 @@ Andrés Sánchez
 El método del voltaje en los nodos es un método organizado para analizar un circuito, que está basado en la Ley de Kirchhoff de la corriente.
 El método del voltaje en los nodos es uno de dos procedimientos eficientes que tenemos para resolver circuitos.
 
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/1.png)
+
+###### _FIGURA 1_
+
 #### 2.2 Voltaje de un Nodo:
 
 
@@ -36,24 +40,20 @@ Seleccionamos uno de los nodos en nuestro circuito para que sea el nodo de refe
 El potencial en el nodo de tierra se define como 0V. Los potenciales en todos los demás nodos se miden en relación a la tierra.
 
 
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/2.png)
 
-
-
-###### _FIGURA 1_
+###### _FIGURA 2_
 
 ### 3.	DIAGRAMAS
 
 - Diagramas eléctricos
 
-![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/2.png)
-
-
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/4.png)
 ###### _FIGURA 2_
 
  - Diagramas esquemáticos.
 
-
-![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/3.png)
 
 
 ###### _FIGURA 3_
@@ -79,31 +79,38 @@ El potencial en el nodo de tierra se define como 0V. Los potenciales en todos l
 #### SIMULACIÓN
 Se tiene que preparar los componenetes antes de la construcción del circuito
 
-![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/5.png)
 
 ###### _FIGURA 4_
 
 Se hace la creación del circuito del diagrama eléctrico en el protoboard
 
-![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/4.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/6.png)
 
 ###### _FIGURA 5_
 
 Se mide el voltaje los nodos 1 y 2
 
-![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/5.png)
-
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/7.png)
 ###### _FIGURA 6_
 
 #### MEDICIÓN
 
 Se tiene que preparar los componenetes antes de la construcción del circuito
 
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/8.png)
+
 Se hace la creación del circuito del diagrama eléctrico en el protoboard
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/9.png)
 
 Se mide el voltaje del nodo 1
 
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/10.png)
+
 Se mide el voltaje del nodo 2
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/11.png)
 
 ### 6.  MANUAL DE USUARIO
 
@@ -119,12 +126,11 @@ __5.1__ Tabulación de los datos
 
 __5.2.1__ Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
-![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/6.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/12.png)
 
 __5.2.2__ Calculo del error
 
-
-![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/7.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/13.png)
 
 En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro) Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente Terminamos midiendo el voltaje de cada resistor.
  
@@ -143,6 +149,6 @@ R. (2001). Fisica II. Mexico: Pearson Educacion.
 
 ### 11.	 ANEXOS
 
-![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/8.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/14.png)
 
-![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/9.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/15.png)
