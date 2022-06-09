@@ -166,5 +166,4 @@ Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson Educacio
 
 R. (2001). Fisica II. México: Pearson Educacion.
 
-### 11.	 ANEXOS
 
