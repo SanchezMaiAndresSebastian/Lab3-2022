@@ -25,6 +25,18 @@ Andrés Sánchez
 
 #### 2.1.	 Análisis de Nodos:
 
+El método del voltaje en los nodos es un método organizado para analizar un circuito, que está basado en la Ley de Kirchhoff de la corriente.
+El método del voltaje en los nodos es uno de dos procedimientos eficientes que tenemos para resolver circuitos.
+
+#### 2.2 Voltaje de un Nodo:
+
+
+Cuando usamos el término de voltaje en un nodo, nos referimos a la diferencia de potencial entre dos nodos de un circuito.
+Seleccionamos uno de los nodos en nuestro circuito para que sea el nodo de referencia. Todos los otros voltajes en los nodos se miden con respecto a este nodo de referencia.
+El potencial en el nodo de tierra se define como 0V. Los potenciales en todos los demás nodos se miden en relación a la tierra.
+
+
+
 
 
 ###### _FIGURA 1_
