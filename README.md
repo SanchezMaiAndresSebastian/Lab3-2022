@@ -76,7 +76,7 @@ El potencial en el nodo de tierra se define como 0V. Los potenciales en todos l
 
 
 ### 5.	EXPLICACIÓN
-
+#### SIMULACIÓN
 Se tiene que preparar los componenetes antes de la construcción del circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/3.png)
@@ -87,14 +87,23 @@ Se hace la creación del circuito del diagrama eléctrico en el protoboard
 
 ![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/4.png)
 
-###### _FIGURA 5_}
+###### _FIGURA 5_
 
-Se mide las corrinetes de las mallas 1, 2 y 3 
+Se mide el voltaje los nodos 1 y 2
 
 ![](https://github.com/SanchezMaiAndresSebastian/InformeN-2-2022/blob/main/Fotos/5.png)
 
 ###### _FIGURA 6_
 
+#### MEDICIÓN
+
+Se tiene que preparar los componenetes antes de la construcción del circuito
+
+Se hace la creación del circuito del diagrama eléctrico en el protoboard
+
+Se mide el voltaje del nodo 1
+
+Se mide el voltaje del nodo 2
 
 ### 6.  MANUAL DE USUARIO
 
@@ -120,12 +129,10 @@ __5.2.2__ Calculo del error
 En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro) Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente Terminamos midiendo el voltaje de cada resistor.
  
 ### 9.	CONCLUSIONES
-- Para el cálculo de la corriente de una malla solo se pude usar el uso de un resistor que no comparta malla con otros.
-- Para la medición de las mallas se puede dar la dirección que se quiera.
-- No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito.
- - No es lo mismo la medición de voltaje con corriente 
- - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
- - La fuente de corriente directa mide cuantos amperios tiene el circuito.
+- Para el cálculo de un nodo se tiene que usar la propiedad de ley de corriente de kirchoff el cuaal es que la suma de corrientes que entran en un nodo es igual a la suma de corrientes que sale del nodo.
+- Para la medición del voltaje del nodo se puede escoger las corrienets de entrada y de salida aleatoriamenete.
+- No es lo mismo la medición de voltaje con corriente 
+- El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
  
 
 ### 10.	BIBLIOGRAFÍA
