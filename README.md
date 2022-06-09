@@ -165,7 +165,6 @@ R. (2001). Fisica II. Mexico: Pearson Educacion.
 ### 11.	 ANEXOS
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/16.png)
-###### _FIGURA 13_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/17.png)
-###### _FIGURA 14_
+###### _FIGURA 13_
