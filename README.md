@@ -44,7 +44,7 @@ El potencial en el nodo de tierra se define como 0V. Los potenciales en todos lo
 
 ###### _FIGURA 2_
 
-### 3.	DIAGRAMAS
+### 3.	EXPLICACIÓN DEL PROCEDIMIENTO
 
 - Diagramas eléctricos
 
@@ -57,8 +57,6 @@ El potencial en el nodo de tierra se define como 0V. Los potenciales en todos lo
 
 
 ###### _FIGURA 4_
-
-### 4.	LISTA DE COMPONENTES
 
 | Cantidad | Componentes | 
 | -------- | ----------- | 
@@ -121,15 +119,9 @@ Se mide el voltaje del nodo 2
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/12.png)
 ###### _FIGURA 12_
 
-### 6.  MANUAL DE USUARIO
 
-### 7.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
-
- - Siempre tener conectado a una fuente de corriente continua
- - Tener la fuente de voltaje configurada para la medición en voltios
- - Tener el multímetro siempre en la configurada en la medición de voltios 
  
-### 8.	APORTACIONES
+### 8.	RESPUESTAS A INTERROGANTES
 
 __5.1__ Tabulación de los datos
 
@@ -146,6 +138,14 @@ Simulado
 Medido
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/15.png)
+
+Calculos
+
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/16.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/17.png)
+###### _FIGURA 13_
 
 En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro). Después se pone las tomas del Multímetro en una parte del nodo que deseo medir, con el nodo de referencia y con eso obtengo la medición del voltaje de dicho nodo.
 
@@ -166,7 +166,3 @@ R. (2001). Fisica II. México: Pearson Educacion.
 
 ### 11.	 ANEXOS
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/16.png)
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/17.png)
-###### _FIGURA 13_
