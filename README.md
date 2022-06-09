@@ -147,8 +147,10 @@ Medido
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/15.png)
 
-En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro) Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente Terminamos midiendo el voltaje de cada resistor.
- 
+En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro). Después se pone las tomas del Multímetro en una parte del nodo que deseo medir, con el nodo de referencia y con eso obtengo la medición del voltaje de dicho nodo.
+
+##### Se hizo con una fuente de voltaje de 9 V, reemplazando a la fuente de 10 V
+
 ### 9.	CONCLUSIONES
 - Para el cálculo de un nodo se tiene que usar la propiedad de ley de corriente de Kirchhoff el cual es que la suma de corrientes que entran en un nodo es igual a la suma de corrientes que sale del nodo.
 - Para la medición del voltaje del nodo se puede escoger las corrientes de entrada y de salida aleatoriamente.
@@ -168,4 +170,3 @@ R. (2001). Fisica II. México: Pearson Educacion.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/17.png)
 ###### _FIGURA 13_
-
