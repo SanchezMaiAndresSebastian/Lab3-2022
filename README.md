@@ -49,14 +49,14 @@ El potencial en el nodo de tierra se define como 0V. Los potenciales en todos l
 - Diagramas eléctricos
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/4.png)
-###### _FIGURA 2_
+###### _FIGURA 3_
 
  - Diagramas esquemáticos.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/3.png)
 
 
-###### _FIGURA 3_
+###### _FIGURA 4_
 
 ### 4.	LISTA DE COMPONENTES
 
@@ -81,36 +81,45 @@ Se tiene que preparar los componenetes antes de la construcción del circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/5.png)
 
-###### _FIGURA 4_
+###### _FIGURA 5_
 
 Se hace la creación del circuito del diagrama eléctrico en el protoboard
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/6.png)
 
-###### _FIGURA 5_
+###### _FIGURA 6_
 
 Se mide el voltaje los nodos 1 y 2
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/7.png)
-###### _FIGURA 6_
+###### _FIGURA 7_
 
 #### MEDICIÓN
 
 Se tiene que preparar los componenetes antes de la construcción del circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/8.png)
+###### _FIGURA 8_
 
 Se hace la creación del circuito del diagrama eléctrico en el protoboard
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/9.png)
+###### _FIGURA 9_
+
+Se hace la creación del circuito del diagrama eléctrico en el protoboard uniendo los conectores de cables
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/10.png)
+###### _FIGURA 10_
 
 Se mide el voltaje del nodo 1
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/10.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/11.png)
+###### _FIGURA 11_
 
 Se mide el voltaje del nodo 2
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/11.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/12.png)
+###### _FIGURA 12_
 
 ### 6.  MANUAL DE USUARIO
 
@@ -156,5 +165,7 @@ R. (2001). Fisica II. Mexico: Pearson Educacion.
 ### 11.	 ANEXOS
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/16.png)
+###### _FIGURA 13_
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/17.png)
+###### _FIGURA 14_
