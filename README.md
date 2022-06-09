@@ -71,9 +71,7 @@ El potencial en el nodo de tierra se define como 0V. Los potenciales en todos lo
  
 > (Herramientas utilizadas en simulación) 
 > Simulador thinkercad
-
-
-### 5.	EXPLICACIÓN
+> 
 #### SIMULACIÓN
 Se tiene que preparar los componentes antes de la construcción del circuito
 
@@ -121,7 +119,7 @@ Se mide el voltaje del nodo 2
 
 
  
-### 8.	RESPUESTAS A INTERROGANTES
+### 4.	RESPUESTAS A INTERROGANTES
 
 __5.1__ Tabulación de los datos
 
@@ -151,14 +149,18 @@ En el circuito que hemos construido se ve como la unión de diferentes elementos
 
 ##### Se hizo con una fuente de voltaje de 9 V, reemplazando a la fuente de 10 V
 
-### 9.	CONCLUSIONES
+### 5. VIDEOS
+
+
+
+### 6.	CONCLUSIONES
 - Para el cálculo de un nodo se tiene que usar la propiedad de ley de corriente de Kirchhoff el cual es que la suma de corrientes que entran en un nodo es igual a la suma de corrientes que sale del nodo.
 - Para la medición del voltaje del nodo se puede escoger las corrientes de entrada y de salida aleatoriamente.
 - No es lo mismo la medición de voltaje con corriente 
 - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
  
 
-### 10.	BIBLIOGRAFÍA
+### 7.	BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson Educacion. Serway,
 
