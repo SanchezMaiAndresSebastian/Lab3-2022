@@ -121,13 +121,13 @@ Se mide el voltaje del nodo 2
  
 ### 4.	RESPUESTAS A INTERROGANTES
 
-__5.1__ Tabulación de los datos
+__4.1__ Tabulación de los datos
 
-__5.2.1__ Compare los valores de la tabla 2.1 y realice sus conclusiones.
+__4.2.1__ Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/13.png)
 
-__5.2.2__ Calculo del error
+__4.2.2__ Calculo del error
 
 Simulado
 
